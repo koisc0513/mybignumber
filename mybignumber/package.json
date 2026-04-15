@@ -1,0 +1,15 @@
+{
+  "name": "mybignumber",
+  "version": "1.0.0",
+  "description": "Cài đặt thuật toán cộng 2 số lớn (biểu diễn dưới dạng chuỗi) theo cách học sinh Tiểu học.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
